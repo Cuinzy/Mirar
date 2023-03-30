@@ -1,2 +1,0 @@
-# Mirar
-Juego de muestra
